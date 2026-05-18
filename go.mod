@@ -1,3 +1,3 @@
-module github.com/Invincib-e/gf-wrapper
+module github.com/Invincibl-e/gf-wrapper
 
 go 1.26

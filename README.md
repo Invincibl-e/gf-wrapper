@@ -15,14 +15,14 @@ github.com/gogf/gf/cmd/gf/v2/gfcmd
 ## 安装
 
 ```bash
-go install github.com/Invincib-e/gf-wrapper/cmd/gf/v2@vX.Y.Z
+go install github.com/Invincibl-e/gf-wrapper/cmd/gf/v2@v2.10.2
 ```
 
 Dockerfile 示例：
 
 ```dockerfile
 ARG GO_GF_VERSION=v2.10.2
-RUN go install github.com/Invincib-e/gf-wrapper/cmd/gf/v2@${GO_GF_VERSION}
+RUN go install github.com/Invincibl-e/gf-wrapper/cmd/gf/v2@${GO_GF_VERSION}
 ```
 
 ## 使用
