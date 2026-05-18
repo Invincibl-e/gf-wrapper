@@ -3,7 +3,6 @@ module github.com/Invincibl-e/gf-wrapper/cmd/gf/v2
 go 1.26
 
 require (
-	github.com/Invincibl-e/gf-wrapper v0.1.0
 	github.com/gogf/gf/cmd/gf/v2 v2.10.2
 	github.com/gogf/gf/v2 v2.10.2
 )
