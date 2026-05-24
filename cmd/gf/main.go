@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Invincibl-e/gf-wrapper/config/render"
+	"github.com/Invincibl-e/gf-wrapper/v2/config/render"
 	"github.com/gogf/gf/cmd/gf/v2/gfcmd"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gcfg"
