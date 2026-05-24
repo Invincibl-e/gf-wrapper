@@ -17,9 +17,8 @@ github.com/BurntSushi/toml v1.5.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2
 github.com/ClickHouse/clickhouse-go v1.5.4/go.mod h1:EaI/sW7Azgz9UATzd5ZdZHRUhHgv5+JMS9NSr2smCJI=
 github.com/ClickHouse/clickhouse-go/v2 v2.0.15 h1:lLAZliqrZEygkxosLaW1qHyeTb4Ho7fVCZ0WKCpLocU=
 github.com/ClickHouse/clickhouse-go/v2 v2.0.15/go.mod h1:Z21o82zD8FFqefOQDg93c0XITlxGbTsWQuRm588Azkk=
-github.com/Invincibl-e/gf-wrapper/v2 v2.10.1-fix.1 h1:QLYu/NInXvHzDwLjhf3FW+qUJuq2XPbsuSnDV/+sw04=
-github.com/Invincibl-e/gf-wrapper/v2 v2.10.1-fix.1/go.mod h1:WyLHHRt3fFi9CcJwqUUV9/YAWmwAR4KCGi3tF7mOMOM=
-github.com/Invincibl-e/gf-wrapper/v2 v2.10.1/go.mod h1:uxRTokavU43o1fj1lQsWyZxGhzNMpMil9/WkCN3ICyc=
+github.com/Invincibl-e/gf-wrapper/v2 v2.10.2-fix.1 h1:q8uuSEGkxtgYvkAQ1r9c1mmt0v7fsZcunqjSleXvhIE=
+github.com/Invincibl-e/gf-wrapper/v2 v2.10.2-fix.1/go.mod h1:WyLHHRt3fFi9CcJwqUUV9/YAWmwAR4KCGi3tF7mOMOM=
 github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
 github.com/bkaradzic/go-lz4 v1.0.0/go.mod h1:0YdlkowM3VswSROI7qDxhRvJ3sLhlFrRRwjwegp5jy4=
 github.com/clbanning/mxj/v2 v2.7.0 h1:WA/La7UGCanFe5NpHF0Q3DNtnCsVoxbPKuyBNHWRyME=
